@@ -1,0 +1,18 @@
+$grey: #aaa;
+$black: #000;
+
+a[role=button] {
+	outline: none;
+}
+.grey-colored {
+	color: $grey;
+}
+
+
+footer {
+	text-align: center;
+	
+	a:hover {
+		color: $black;
+	}
+}

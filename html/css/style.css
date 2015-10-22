@@ -1,0 +1,12 @@
+a[role=button] {
+  outline: none; }
+
+.grey-colored {
+  color: #aaa; }
+
+footer {
+  text-align: center; }
+  footer a:hover {
+    color: #000; }
+
+/*# sourceMappingURL=style.css.map */
